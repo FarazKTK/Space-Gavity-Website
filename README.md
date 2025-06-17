@@ -1,2 +1,2 @@
-# Space-Gavity-Website
+# Space-Gravity-Website
 Gravity Website Design
